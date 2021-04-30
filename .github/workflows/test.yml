@@ -1,2 +1,2 @@
-- name: GitHub Action for pylint
+- name: static-code-analysis
   uses: cclauss/GitHub-Action-for-pylint@0.7.0
