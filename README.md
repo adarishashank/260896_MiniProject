@@ -13,6 +13,9 @@ In this project we have us3ed BeautifulSoup library where we scrape data from we
 
 Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree. We use _pip install beautifulsoup4_ to install the library.
 
+## Output 
+![Application_Image](https://github.com/adarishashank/260896_MiniProject/blob/main/Output.PNG)
+
 ## Contributors List and Summary
 
 | SF ID. | Name |
